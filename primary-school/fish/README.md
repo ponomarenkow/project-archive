@@ -1,5 +1,5 @@
 # Fish
-I made plenty of games in Scratch. This one, made probably around 8th grade (14 years old), combines all the things I learned during these few years and puts it to another level.
+I made plenty of games in Scratch. This one, made probably around 7-8th grade (14-15 years old), combines all the things I learned during these few years and puts it to another level.
 
 You start with two fish in an aquarium, each with randomised colors. Hovering over the fish shows you its needs. Feeding is done by clicking on a food container to enter mode for moving and then clicking on it again to dispense food, cleaning the aquarium from algae by dragging the sponge. Clicking the fish for the first time allows you to name it, after that clicking will move it to the next one of three available aquariums. You may move between aquariums with left and right arrows. You may also breed your fish by dragging the heart to two fish of opposite sexes of your choice.
 
